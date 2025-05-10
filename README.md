@@ -29,7 +29,7 @@ Build a regression model to understand what factors influence how much a custome
 ## 📸 Screenshots
 | Dashboard | Regression Summary |
 |----------|--------------------|
-| ![Dashboard](![Image](https://github.com/user-attachments/assets/e4507fef-828c-4cd7-80f0-02e55ca50c0d) | ![Regression](images/regression_output.png) |
+| ![Image](https://github.com/user-attachments/assets/e4507fef-828c-4cd7-80f0-02e55ca50c0d) | ![Image](https://github.com/user-attachments/assets/6f07ee7c-cfd7-4a3c-a21c-79316668a4ec) |
 
 ---
 ## 📁 File
